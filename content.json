@@ -105,5 +105,13 @@
   "content_enriched": true,
   "hero_image": "/static/img/hero_ph.svg",
   "about_image": "/static/img/about_ph.svg",
-  "placeholder_images": true
+  "placeholder_images": true,
+  "font_display": "Playfair Display",
+  "font_body": "Source Sans 3",
+  "taste_applied": true,
+  "makeover_stages": [
+    "lokal"
+  ],
+  "makeover_version": 7,
+  "site_version": "1.0"
 }
