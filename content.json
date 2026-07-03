@@ -2,22 +2,108 @@
   "site_name": "Muster Handwerk",
   "headline": "Handwerk, auf das Sie sich verlassen können",
   "subline": "Qualität aus Ihrer Region — zuverlässig, sauber und termintreu.",
-  "akzent": "#c8102e",
+  "akzent": "#243b66",
   "branche": "Handwerk",
   "stadt": "",
   "telefon": "",
   "email": "",
   "adresse": "",
   "ueber_titel": "Über uns",
-  "ueber_text": "Seit Jahren Ihr verlässlicher Partner in der Region. Wir verbinden traditionelles Handwerk mit moderner Ausführung.",
+  "ueber_text": "Petra Hedwig Rechtsanwältin hat seit vielen Jahren in Falkensee erfolgreich als Anwalt gearbeitet. Mit einem starken Fokus auf persönliche Betreuung und individuelle Lösungen, bietet sie ihre Expertise im Bereich des Vertrags-, Familien- und Erbrechts an. Petra Hedwig steht für Zuverlässigkeit und Engagement.",
   "leistungen": [
-    {"titel": "Beratung", "text": "Persönlich, ehrlich und auf Ihr Projekt zugeschnitten."},
-    {"titel": "Ausführung", "text": "Saubere, termintreue Arbeit mit Liebe zum Detail."},
-    {"titel": "Service", "text": "Auch nach Abschluss für Sie da — ein fester Ansprechpartner."}
+    {
+      "titel": "Vertragsrecht",
+      "text": "Schnelle und präzise Rechtsschutz im Bereich Verträge."
+    },
+    {
+      "titel": "Familienrecht",
+      "text": "Persönliche Betreuung bei Scheidungs- und Unterhaltsstreitigkeiten."
+    },
+    {
+      "titel": "Erbrecht",
+      "text": "Effektive Unterstützung bei Erbschaftsfragen."
+    },
+    {
+      "titel": "Strafrecht",
+      "text": "Kundige Beratung in Strafsachen."
+    },
+    {
+      "titel": "Zivilrecht",
+      "text": "Sachkundige Lösungen für Zivilstreitigkeiten."
+    },
+    {
+      "titel": "Arbeitsrecht",
+      "text": "Spezialisiert auf Arbeitsverträge und Beschäftigungsschutz."
+    }
   ],
-  "fotos": [],
+  "fotos": [
+    "/static/img/gal_ph1.svg",
+    "/static/img/gal_ph2.svg",
+    "/static/img/gal_ph3.svg"
+  ],
   "cta_text": "Jetzt unverbindlich anfragen",
   "seo_title": "Muster Handwerk",
   "seo_desc": "Qualität aus Ihrer Region.",
-  "jahr": 2026
+  "jahr": 2026,
+  "hero_refresh_version": 7,
+  "impressum": "Impressum\n\nAngaben gemäß § 5 DDG\n\nPetra Hedwig Rechtsanwältin\nBahnhofstr. 85 14612 Falkensee\n\nVertreten durch:\n[bitte ergänzen]\n\nKontakt:\nTelefon: [bitte ergänzen]\nE-Mail: info@zutz-und-hedwig.de\n\nUmsatzsteuer-ID:\nUmsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: [bitte ergänzen]\n\nVerbraucherstreitbeilegung/Universalschlichtungsstelle:\nWir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.\n\nHaftung für Inhalte:\nAls Diensteanbieter sind wir gemäß § 7 Abs.1 DDG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt.",
+  "datenschutz": "Datenschutzerklärung\n\n1. Datenschutz auf einen Blick\nDie folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können.\n\n2. Verantwortliche Stelle\nPetra Hedwig Rechtsanwältin\nBahnhofstr. 85 14612 Falkensee\nTelefon: [bitte ergänzen]\nE-Mail: info@zutz-und-hedwig.de\nAnsprechpartner: [bitte ergänzen]\n\n3. Erfassung von Daten / Kontaktformular\nWenn Sie uns über das Kontaktformular oder per E-Mail kontaktieren, werden Ihre Angaben inklusive der von Ihnen dort angegebenen Kontaktdaten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen bei uns gespeichert. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO (Anbahnung/Erfüllung eines Vertrags) bzw. Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Beantwortung). Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.\n\n4. Hosting & Server-Log-Dateien\nDer Provider der Seiten erhebt und speichert automatisch Informationen in sogenannten Server-Log-Dateien (Browsertyp, Betriebssystem, Referrer-URL, Hostname, Uhrzeit). Diese Daten sind nicht bestimmten Personen zuordenbar und dienen der technischen Sicherheit.\n\n5. Ihre Rechte\nSie haben jederzeit das Recht auf Auskunft, Berichtigung, Löschung oder Einschränkung der Verarbeitung Ihrer Daten, ein Widerspruchsrecht sowie das Recht auf Datenübertragbarkeit (Art. 15–21 DSGVO). Zudem steht Ihnen ein Beschwerderecht bei einer Aufsichtsbehörde zu.\n\n6. SSL-/TLS-Verschlüsselung\nDiese Seite nutzt aus Sicherheitsgründen eine SSL-/TLS-Verschlüsselung.",
+  "agb": "Allgemeine Geschäftsbedingungen (AGB)\n\n1. Geltungsbereich\nDiese AGB gelten für alle Verträge und Leistungen zwischen Petra Hedwig Rechtsanwältin (nachfolgend „Auftragnehmer\") und dem Kunden, soweit nicht ausdrücklich etwas anderes vereinbart wurde.\n\n2. Angebot und Vertragsschluss\nAngebote sind freibleibend. Ein Vertrag kommt durch Auftragsbestätigung bzw. Ausführung der Leistung zustande.\n\n3. Leistungen und Preise\nArt und Umfang der Leistung ergeben sich aus der jeweiligen Vereinbarung. Es gelten die zum Zeitpunkt des Vertragsschlusses vereinbarten Preise zzgl. der gesetzlichen Umsatzsteuer.\n\n4. Zahlungsbedingungen\nRechnungen sind, sofern nicht anders vereinbart, innerhalb von 14 Tagen nach Rechnungsstellung ohne Abzug zur Zahlung fällig.\n\n5. Gewährleistung und Haftung\nEs gelten die gesetzlichen Gewährleistungsregelungen. Die Haftung für leicht fahrlässige Pflichtverletzungen ist ausgeschlossen, soweit keine wesentlichen Vertragspflichten betroffen sind oder Schäden aus der Verletzung von Leben, Körper oder Gesundheit resultieren.\n\n6. Schlussbestimmungen\nEs gilt das Recht der Bundesrepublik Deutschland. Sollte eine Bestimmung unwirksam sein, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt.",
+  "lat": 52.560175799999996,
+  "lng": 13.0909742,
+  "fotos_graded": true,
+  "rechner": {
+    "titel": "Kostenrechner",
+    "untertitel": "Unverbindliche Sofort-Schätzung",
+    "posten": [
+      {
+        "name": "Erstberatung",
+        "ab": 100,
+        "bis": 250
+      },
+      {
+        "name": "Beratung (pro Stunde)",
+        "ab": 150,
+        "bis": 300
+      },
+      {
+        "name": "Vertretung (Richtwert)",
+        "ab": 500,
+        "bis": 3000
+      }
+    ],
+    "hinweis": "Grobe Orientierung — Ihr genaues, kostenloses Angebot erstellen wir nach kurzer Rücksprache."
+  },
+  "faq": [
+    {
+      "frage": "Wie erreiche ich Sie außerhalb der Bürozeiten?",
+      "antwort": "Bitte hinterlassen Sie eine Nachricht per E-Mail oder Telefon, wir werden so schnell wie möglich zurückrufen."
+    },
+    {
+      "frage": "Bieten Sie Anfahrtskosten für Mandanten an?",
+      "antwort": "Wir prüfen jede individuelle Situation und beraten Sie zu fairen Lösungen."
+    },
+    {
+      "frage": "Welche Gebühren gelten bei Ihrem Büro?",
+      "antwort": "Unsere Gebühren basieren auf der Art und Komplexität des Rechtsproblems. Wir berechnen transparent und fair."
+    },
+    {
+      "frage": "Bieten Sie eine erste Beratung ohne Kosten an?",
+      "antwort": "Ja, wir bieten eine kostenlose Erstberatung an."
+    },
+    {
+      "frage": "Wie lange dauert es bis ich einen Termin bekomme?",
+      "antwort": "Wir bemühen uns um schnelle Termine. Bitte kontaktieren Sie uns für Ihre Anfrage."
+    }
+  ],
+  "trust": [
+    "Zuverlässige Beratung in Falkensee",
+    "Individuelle Lösungen für jedes Problem",
+    "Transparenz im Gebührenbereich",
+    "Kundenerreichbarkeit außerhalb der Bürozeiten"
+  ],
+  "content_enriched": true,
+  "hero_image": "/static/img/hero_ph.svg",
+  "about_image": "/static/img/about_ph.svg",
+  "placeholder_images": true
 }
