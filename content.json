@@ -1,19 +1,19 @@
 {
-  "site_name": "Muster Handwerk",
-  "headline": "Handwerk, auf das Sie sich verlassen können",
-  "subline": "Qualität aus Ihrer Region — zuverlässig, sauber und termintreu.",
+  "site_name": "Petra Hedwig Rechtsanwältin",
+  "headline": "Rechtssicherheit für Falkensee und die Region",
+  "subline": "Persönliche Rechtsberatung in Vertrags-, Familien- und Erbrecht. Klar, verlässlich, vor Ort.",
   "akzent": "#243b66",
-  "branche": "Handwerk",
-  "stadt": "",
+  "branche": "Rechtsanwältin",
+  "stadt": "Falkensee",
   "telefon": "",
-  "email": "",
-  "adresse": "",
-  "ueber_titel": "Über uns",
-  "ueber_text": "Petra Hedwig Rechtsanwältin hat seit vielen Jahren in Falkensee erfolgreich als Anwalt gearbeitet. Mit einem starken Fokus auf persönliche Betreuung und individuelle Lösungen, bietet sie ihre Expertise im Bereich des Vertrags-, Familien- und Erbrechts an. Petra Hedwig steht für Zuverlässigkeit und Engagement.",
+  "email": "info@zutz-und-hedwig.de",
+  "adresse": "Bahnhofstr. 85, 14612 Falkensee",
+  "ueber_titel": "Über mich",
+  "ueber_text": "Petra Hedwig Rechtsanwältin hat seit vielen Jahren in Falkensee erfolgreich als Anwältin gearbeitet. Mit einem starken Fokus auf persönliche Betreuung und individuelle Lösungen, bietet sie ihre Expertise im Bereich des Vertrags-, Familien- und Erbrechts an. Petra Hedwig steht für Zuverlässigkeit und Engagement.",
   "leistungen": [
     {
       "titel": "Vertragsrecht",
-      "text": "Schnelle und präzise Rechtsschutz im Bereich Verträge."
+      "text": "Schneller und präziser Rechtsschutz im Bereich Verträge."
     },
     {
       "titel": "Familienrecht",
@@ -42,8 +42,8 @@
     "/static/img/gal_ph3.svg"
   ],
   "cta_text": "Jetzt unverbindlich anfragen",
-  "seo_title": "Muster Handwerk",
-  "seo_desc": "Qualität aus Ihrer Region.",
+  "seo_title": "Petra Hedwig Rechtsanwältin | Falkensee",
+  "seo_desc": "Rechtsanwältin in Falkensee. Vertrags-, Familien- und Erbrecht. Persönliche Beratung.",
   "jahr": 2026,
   "hero_refresh_version": 7,
   "impressum": "Impressum\n\nAngaben gemäß § 5 DDG\n\nPetra Hedwig Rechtsanwältin\nBahnhofstr. 85 14612 Falkensee\n\nVertreten durch:\n[bitte ergänzen]\n\nKontakt:\nTelefon: [bitte ergänzen]\nE-Mail: info@zutz-und-hedwig.de\n\nUmsatzsteuer-ID:\nUmsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: [bitte ergänzen]\n\nVerbraucherstreitbeilegung/Universalschlichtungsstelle:\nWir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.\n\nHaftung für Inhalte:\nAls Diensteanbieter sind wir gemäß § 7 Abs.1 DDG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt.",
@@ -72,7 +72,7 @@
         "bis": 3000
       }
     ],
-    "hinweis": "Grobe Orientierung — Ihr genaues, kostenloses Angebot erstellen wir nach kurzer Rücksprache."
+    "hinweis": "Grobe Orientierung. Das genaue Angebot erstellen wir nach kurzer Rücksprache, kostenlos."
   },
   "faq": [
     {
@@ -110,7 +110,8 @@
   "font_body": "Source Sans 3",
   "taste_applied": true,
   "makeover_stages": [
-    "lokal"
+    "lokal",
+    "politur"
   ],
   "makeover_version": 7,
   "site_version": "1.0"

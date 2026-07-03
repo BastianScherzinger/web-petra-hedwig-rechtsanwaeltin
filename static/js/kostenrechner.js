@@ -54,7 +54,7 @@
       if (umfLbl) umfLbl.textContent = u.lbl;
       var lo = (p.ab || 0) * u.f;
       var hi = (p.bis || p.ab || 0) * u.f;
-      out.textContent = "ca. " + euro(lo) + " – " + euro(hi);
+      out.textContent = "ca. " + euro(lo) + " - " + euro(hi);
     }
 
     sel.addEventListener("change", update);
